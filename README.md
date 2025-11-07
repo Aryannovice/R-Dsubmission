@@ -25,7 +25,7 @@
 ## Repository Contents
 
 * `report.pdf` — Full LaTeX report containing all derivations, equations, and analysis.
-* `colab/ParametricCurve_Fit.ipynb` — Colab notebook version for reproduction.
+* `colab/codeimplementation.ipynb` — Colab notebook version for reproduction.
 * `figures/` — Contains plots (curve fit, residuals, verification, etc.).
 * `README.md` — Summary and key submission information.
 
