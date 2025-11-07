@@ -1,6 +1,7 @@
 # Parametric Curve Estimation — Flam R&D Assignment
 
-**Author:** Ayush Pandey , Amrita Vishwa Vidyapeetham, BTech - CSE (AI), AV.EN.U4AIE22106
+**Author:** Ayush Pandey , Amrita Vishwa Vidyapeetham, BTech - CSE (AI), AV.EN.U4AIE22106, aryannovice07@Gmail.com/ayushpandey1177@gmail.com
+
 
 ---
 
