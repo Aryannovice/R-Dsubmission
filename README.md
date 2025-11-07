@@ -39,10 +39,10 @@ A short (≈2 min) explanation of the reasoning, workflow, and the choice of LM 
 
 ---
 
-## Minimal Steps to Reproduce
+## Run Locally
 
 1. Run `colab/ParametricCurve_Fit.ipynb` on Google Colab **or**
-   execute `code/fit_curve.py` locally after installing dependencies (`numpy`, `scipy`, `pandas`, `matplotlib`).
+   execute `code/fit_curve.py` locally after installing dependencies (`numpy`, `scipy`, `pandas`, `matplotlib`)(basic imports).
 2. Generated figures and results are saved in the `figures/` folder.
 3. The verified final parameter values are reported above and detailed in `report.pdf`.
 
