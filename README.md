@@ -35,7 +35,7 @@
 
 A short (≈2 min) explanation of the reasoning, workflow, and the choice of LM and Jacobian is available at the following link:
 
-**Drive Link:** [Click here to view explanation video]([https://drive.google.com/YOUR_DRIVE_LINK_HERE](https://1drv.ms/v/c/87e1d8de83df6292/EbRYk_QvrplDsxf6yxTKn7EBwDkaMBz8LSgQfDZHr7B4_g?e=ScfzfV))
+**Drive Link:** [Click here to view explanation video](https://1drv.ms/v/c/87e1d8de83df6292/EbRYk_QvrplDsxf6yxTKn7EBwDkaMBz8LSgQfDZHr7B4_g?e=ScfzfV)
 
 ---
 
