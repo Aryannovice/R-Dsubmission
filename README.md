@@ -52,7 +52,7 @@ A short (≈2 min) explanation of the reasoning, workflow, and the choice of LM 
 
 **Ayush Pandey**
 Amrita Vishwa Vidyapeetham
-[gmail](ayushpandey1177@gmail.com)or[gmail](aryannovice07@gmail.com)
+[gmail1](ayushpandey1177@gmail.com) or [gmail2](aryannovice07@gmail.com)
 [LinkedIn](https://www.linkedin.com/in/ayush-pandey07)
 
 *End of README*
