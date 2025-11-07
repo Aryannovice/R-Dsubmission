@@ -7,7 +7,8 @@
 
 > **Note:**
 > This submission follows the **LaTeX-based format** as allowed in the assignment statement.
-> All equations, derivations, and final parameter values are presented in the LaTeX report file `report.pdf`.
+> All equations, derivations, and final parameter values are presented in the LaTeX report file `reporte.pdf`.
+> The assignment was received on **5th November** and is being submitted on **7th November**, within the specified 3-day window.
 
 ---
 
